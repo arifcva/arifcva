@@ -18,7 +18,7 @@
 - 💬 Ask me about anything, <a href="www.instagram.com/nooee1__"> I am glad to help
 - ⚡ Fun fact : I can solve a Rubik's Cube in under 3 minute!
 
-## Languages and Tools:
+
 **Frontend**
 <br><br>
 ![My Skills](https://skillicons.dev/icons?i=js,react,typescript,next,html,css,tailwind,bootstrap,styledcomponents)
