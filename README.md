@@ -8,7 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ariftallo)
 
 ## About Me
-<img align="right" alt="GIF" width="420" height="210"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNuNmI4MGNrcnl5c2FsbXJrdW9va3JwYzc4MTRpZGdzaHRkZ2N6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
+<img align="right" alt="GIF" width="420" height="280"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNuNmI4MGNrcnl5c2FsbXJrdW9va3JwYzc4MTRpZGdzaHRkZ2N6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"/>
 
 > Frontend Engineer
 > <br>
