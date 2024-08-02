@@ -4,13 +4,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nooee1__)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ariftallo)
 
-### —about me
+### about me
 
 <img align="right" alt="gif" width="420" height="250" src="assets/lightning.gif"/>
 
 > Frontend Developer
 
-**—More about me**
+**More about me**
 
 - <img src="assets/developer.gif" width="21"/>&nbsp;&nbsp; I'm currently Informatics Student at <a href="https://uici.ac.id/">Universitas Insan Cita Indonesia.
 - <img src="assets/laptop.gif" width="21"/>&nbsp;&nbsp; I'm currently learning Next.js Typescript.
@@ -18,6 +18,8 @@
 
 <br>
 
-**—My Toolbet :**
+## Tools:
+**My Toolbet :**
+<br><br>
 ![My Toolbelt](https://skillicons.dev/icons?i=js,react,typescript,next,html,css,tailwind,bootstrap,figma,photoshop,ae,vscode,git,github,mysql,postgres)
 
