@@ -20,6 +20,5 @@
 
 ## Tools:
 **My Toolbet :**
-<br><br>
-![My Toolbelt](https://skillicons.dev/icons?i=js,react,typescript,next,html,css,tailwind,bootstrap,figma,photoshop,ae,vscode,git,github,mysql,postgres)
-
+<br>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind,bootstrap,styledcomponents,vscode,figma,replit,github,mongodb,css,html,js,express,nodejs"> </a> </p>
