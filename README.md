@@ -13,7 +13,7 @@
 **More about me**
 
 - <img src="assets/developer.gif" width="21"/>&nbsp;&nbsp; I'm currently Informatics Student at <a href="https://uici.ac.id/">Universitas Insan Cita Indonesia.
-- <img src="assets/laptop.gif" width="21"/>&nbsp;&nbsp; I'm currently learning Next.js Typescript.
+- <img src="assets/laptop.gif" width="21"/>&nbsp;&nbsp; I'm currently learning Next.js with Typescript.
 - <img src="assets/message.gif" width="21"/>&nbsp;&nbsp; If you have any inquiries, just let me know; I'm more than happy to assist.
 
 <br>
