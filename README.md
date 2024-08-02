@@ -20,5 +20,5 @@
 
 ## My Toolbelt:
 
-<br><br>
+<br>
 ![My Toolbelt](https://skillicons.dev/icons?i=js,react,typescript,next,html,css,tailwind,bootstrap,figma,photoshop,ae,vscode,git,github,mysql,postgres)
