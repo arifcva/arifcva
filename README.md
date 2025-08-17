@@ -1,24 +1,44 @@
-# <samp>&gt; Yo, I am <a href="https://github.com/arifcva" target="_blank">Arif Maulana</a>✋</samp>
+# 👋 Hi, I'm [Arif Maulana](https://github.com/arifcva)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arif-maulana-422b372a6/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rif.t4llo__)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ariftallo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-maulana-422b372a6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rif.t4llo__)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ariftallo)
 
-### about me
+---
 
-<img align="right" alt="gif" width="420" height="250" src="assets/lightning.gif"/>
+## 🚀 About Me  
+<img align="right" src="assets/lightning.gif" width="420" height="250"/>
 
-> Frontend Developer
+- 🎓 Informatics Student at [STIKOM UYELINDO KUPANG](https://siamiruyelindo.ac.id/)  
+- 💻 Passionate **Frontend Developer**  
+- 📚 Currently learning **Next.js** with **TypeScript**  
+- 🤝 Open to collaborate & always happy to help  
 
-**More about me**
+---
 
-- <img src="assets/developer.gif" width="21"/>&nbsp;&nbsp; I'm currently Informatics Student at <a href="https://siamiruyelindo.ac.id/">  STIKOM UYELINDO KUPANG.
-- <img src="assets/laptop.gif" width="21"/>&nbsp;&nbsp; I'm currently learning Next.js with Typescript.
-- <img src="assets/message.gif" width="21"/>&nbsp;&nbsp; If you have any inquiries, just let me know; I'm more than happy to assist.
+## 🛠 Tech Stack  
 
-<br>
+**Languages & Frameworks**  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,mongodb" />
+</p>
 
-## Tools:
-**My Toolbet :**
-<br>
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind,bootstrap,styledcomponents,vscode,figma,replit,github,mongodb,css,html,js,express,nodejs"> </a> </p>
+**Styling & Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents,figma,vscode,replit,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifcva&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifcva&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## ✨ Fun Fact  
+> “Code is like humor. When you have to explain it, it’s bad.” 😆  
+
