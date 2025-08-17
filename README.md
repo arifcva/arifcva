@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400"/>
+<img align="right" src="assets/lightning.gif" width="420" height="250"/>
 
 - 👨‍💻 **Frontend Developer**  
 - 🎓 Informatics Student at [STIKOM UYELINDO KUPANG](https://siamiruyelindo.ac.id/)  
@@ -30,8 +30,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents,figma,vscode,replit,github" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/>
 </p>
-
----
 
 ## 📊 GitHub Stats  
 
