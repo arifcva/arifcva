@@ -34,18 +34,3 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/>
 </p>
 
-<!-- Stats -->
-## 📊 GitHub Stats
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifcva&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifcva&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<!-- Typing Banner -->
-## ✨ Fun Zone
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things"/>
-</p>
-
-<br/>
