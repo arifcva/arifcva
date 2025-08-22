@@ -28,6 +28,9 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40"/>
 </p>
 
+### 🤖 Others
+![My Skills](https://skillicons.dev/icons?i=c,cpp,laravel,php,python,r,mysql)
+
 ### 🎨 Styling & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents,figma,vscode,replit,github" />
